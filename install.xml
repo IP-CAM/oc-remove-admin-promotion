@@ -24,7 +24,7 @@ of official project files can be found at the following URL:
 <modification>
     <name>Remove Admin Promotions for OpenCart</name>
     <code>shameless-code-remove-admin-promotion</code>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <author>Shameless Code</author>
     <link>https://www.shamelesscode.com</link>
     <file path="admin/view/template/extension/extension/*.twig">
