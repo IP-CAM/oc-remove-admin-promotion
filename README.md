@@ -35,4 +35,4 @@ This extension was built using the native OCMOD extension format introduced in O
 
 ### Demo Video
 
-<a href="https://www.youtube.com/watch?v=H7qt2HdkU-Y" alt="Play Demo Video on YouTube"><img src="https://www.shamelesscode.com/media/opencart-remove-admin-promotion-1.0-demovideo-github.jpg" width="100%"></a>
+<a href="https://www.youtube.com/watch?v=H7qt2HdkU-Y" target="_blank" alt="Play Demo Video on YouTube"><img src="https://www.shamelesscode.com/media/opencart-remove-admin-promotion-1.0-demovideo-github.jpg" width="100%"></a>
